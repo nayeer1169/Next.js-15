@@ -1,0 +1,5 @@
+export default function FirstPost() {
+    return <div>
+        What is generative AI? Generative AI or genAI is defined as set of technologies and techniques that leverage very large corpuses of data, including large language models like GPT-3, to generate new content. Inputs for generative AI may be natural language prompts or other non-code and non-traditional inputs. It is sometimes referred to as AI-generated content or AIGC and can be used by a variety of roles and functions in the enterprise. GenAI includes large language models, generative adversarial networks, diffusion models, and variational autoencoders. It provides the ability to create shortcuts for onerous workflow tasks, speed up delivery times, and enhance employee productivity across multiple enterprise workflows. It increases the scale and speed of analysis and knowledge synthesis for various roles such as developers, marketers, and data scientists. In the short term, it will expand the breadth of human creative expression and drive innovation in product development, design, and content creation.
+    </div>
+}
